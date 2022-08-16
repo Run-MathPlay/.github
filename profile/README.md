@@ -2,7 +2,6 @@
 ### Welcome to our Run MathPlay
 
 Developer : 
-
             탁준석(모바일시스템공학과)
             전현성(모바일시스템공학과)
             안정현(모바일시스템공학과)            
