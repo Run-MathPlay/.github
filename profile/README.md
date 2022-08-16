@@ -1,6 +1,6 @@
 ## Hi there 👋
-### Welcome to our LittleWars
+### Welcome to our Run MathPlay
 
-Developer : 김홍덕, 전현성
+Developer : 탁준석, 전현성, 안정현, 이기윤
 
-Date : 22.03.02 ~ 22.06.20
+Date : 22.08.05
