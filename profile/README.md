@@ -3,7 +3,7 @@ Hi there 👋
 Welcome our Run MathPlay
 ------------------------
 
-Hold By : Woongjin ThinkBig Game Development Challenge <https://wjtbgamechallenge.com/>
+Hold By : Woongjin ThinkBig Game Development Challenge (<https://wjtbgamechallenge.com/>)
 
 Team Name : TimeLoop
 
